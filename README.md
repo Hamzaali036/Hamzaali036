@@ -1,7 +1,7 @@
 
  <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Muhammad+Hamza+Asad!;Welcome+To+My+GitHub+Profile!;Passionate+About+DevOps+%26+Cloud!" alt="Animated Introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Muhammad+Hamza+Asad!" alt="Hi, I'm Muhammad Hamza Asad!" />
 
 <h2>🚀 Aspiring DevOps Engineer | 🎓 Software Engineering Graduate</h2>
 
