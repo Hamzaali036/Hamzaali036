@@ -1,25 +1,31 @@
 
-# 👋 Hi, I'm Muhammad Hamza Asad!
+ <div align="center">
 
-### 🚀 Aspiring DevOps Engineer | 🎓 Software Engineering Graduate
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Muhammad+Hamza+Asad!;Welcome+To+My+GitHub+Profile!;Passionate+About+DevOps+%26+Cloud!" alt="Animated Introduction" />
 
-💻 Passionate about DevOps, Cloud Computing, Linux, Automation, and Infrastructure.
+<h2>🚀 Aspiring DevOps Engineer | 🎓 Software Engineering Graduate</h2>
 
-I'm a Software Engineering graduate working towards becoming a professional DevOps Engineer. I enjoy exploring modern technologies, learning automation tools, and building practical skills through hands-on projects.
+**☁️ Cloud Computing | 🐧 Linux | 🐳 Docker | ☸️ Kubernetes | ⚙️ CI/CD & Automation**
+
+</div>
 
 ---
 
 ## 🌟 About Me
+
+I'm **Muhammad Hamza Asad**, a Software Engineering graduate passionate about DevOps, Cloud Computing, Automation, and modern infrastructure technologies.
+
+Currently, I'm developing my DevOps skills through hands-on practice, technical projects, and continuous learning.
 
 - 🎓 Software Engineering Graduate
 - 🚀 Aspiring DevOps Engineer
 - ☁️ Exploring Cloud Computing & Infrastructure
 - 🐧 Learning Linux & System Administration
 - 🐳 Exploring Docker & Containerization
-- ☸️ Learning Kubernetes
+- ☸️ Learning Kubernetes & Orchestration
 - ⚙️ Practicing CI/CD & Workflow Automation
 - 🔧 Working with Git, GitHub & GitHub Actions
-- 📚 Passionate about continuous learning and improvement
+- 💡 Interested in Infrastructure Automation and Deployment
 
 ---
 
@@ -41,16 +47,18 @@ I'm a Software Engineering graduate working towards becoming a professional DevO
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### ☁️ Cloud Computing
+### ☁️ Cloud Computing & Infrastructure
 
 ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=icloud&logoColor=white)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-607D8B?style=for-the-badge&logo=serverfault&logoColor=white)
 
 ---
 
 ## 📚 Currently Learning
 
-- 🐧 Linux Commands & Administration
+- 🐧 Linux Commands & System Administration
 - 🔀 Git & GitHub Version Control
 - ⚙️ GitHub Actions & CI/CD Pipelines
 - 🐳 Docker Images, Containers & Volumes
@@ -63,36 +71,40 @@ I'm a Software Engineering graduate working towards becoming a professional DevO
 ## 🎯 My Goals
 
 - 🚀 Become a Professional DevOps Engineer
-- ☁️ Develop strong Cloud Computing skills
+- ☁️ Build strong Cloud Computing skills
 - ⚙️ Master CI/CD pipelines and automation
-- 🐳 Gain practical experience with Docker
+- 🐳 Gain practical Docker experience
 - ☸️ Learn Kubernetes and container orchestration
 - 💡 Build real-world DevOps projects
+- 🌍 Contribute to open-source projects
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+<div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaasad3635@gmail.com)
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-📧 **Email:** hamzaasad3635@gmail.com
+<a href="mailto:hamzaasad3635@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
+**📧 Email:** hamzaasad3635@gmail.com
 
-### 💡 "Great things are built one step at a time."
-
-⭐ Thanks for visiting my GitHub profile!
-
-🚀 Always Learning | ⚙️ Always Building | ☁️ Growing in DevOps
